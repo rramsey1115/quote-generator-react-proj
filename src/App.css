@@ -1,0 +1,51 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  border: 2px solid gray;
+  border-radius: 12px;
+  width: 700px;
+  padding: 2em;
+}
+.card-hidden {
+  width: 700px;
+  padding: 2em;
+  border: none;
+}
+
+#quote {
+  font-size: 32px;
+}
+
+#author {
+  font-size: 24px;
+  font-style: italic;
+}
+
+.btn {
+  margin: 20px;
+}
+
+.color-1 {
+  background-color:cadetblue;
+}
+
+.color-2 {
+  background-color:coral;
+}
+
+.color-3 {
+  background-color:rebeccapurple;
+}
+
+.color-4 {
+  background-color:teal;
+}
+
+.color-5 {
+  background-color:sienna;
+}
