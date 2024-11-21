@@ -1,8 +1,9 @@
-# React + Vite
+# Random Quote Generator Project for Persevere
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This React project was built for educational use in the Persevere curriculum. 
+This project is based on the FreeCodeCamp project, with slight modifications to meet TDOC and Core Civic Guidelines.
 
-Currently, two official plugins are available:
+This project was used in class to teach and provide examples for how to use Function-Based React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Teacher: Ryan Ramsey
+Facility: Trousdale Turner Correctional Facility
